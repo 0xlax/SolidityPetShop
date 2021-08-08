@@ -1,1 +1,3 @@
-"# SolidityPetShop" 
+*Solidity Pet Marketplace Project*
+
+
